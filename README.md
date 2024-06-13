@@ -44,3 +44,18 @@ Autoencoders
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2024/blob/main/lab_3_2_autoencoders.ipynb)
 
+
+## Day 4
+
+### Lab 1
+
+Graph Neural Networks
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2024/blob/main/lab_4_1_gnn.ipynb)
+
+### Lab 2
+
+Interpretability and Fairness in ML
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2024/blob/main/lab_4_2_interpretability.ipynb)
+
