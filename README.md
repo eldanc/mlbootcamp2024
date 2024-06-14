@@ -59,3 +59,18 @@ Interpretability and Fairness in ML
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2024/blob/main/lab_4_2_interpretability.ipynb)
 
+
+## Day 5
+
+### Lab 1
+
+Word Embeddings
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2024/blob/main/lab_5_1_words.ipynb)
+
+### Lab 2
+
+Large Language Models
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2024/blob/main/lab_5_2_llms.ipynb)
+
